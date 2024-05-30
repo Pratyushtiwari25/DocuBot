@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+nltk
+PyPDF2
+faiss-cpu
+transformers
+torch
+sentence-transformers
+openai
+tqdm
+langchain
+uvicorn
+fastapi
