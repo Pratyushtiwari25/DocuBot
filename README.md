@@ -22,7 +22,6 @@ Copy code
 pip install -r requirements.txt
 
 # Usage
-
 1. Clone the Repository
 git clone <repository_url>
 cd <repository_directory>
@@ -37,9 +36,13 @@ Run the Notebook
 # Follow the steps in the notebook to set up the RAG pipeline. The notebook will guide you through the process of:
 
 Importing and setting up the necessary libraries.
+
 Loading and processing a PDF file.
+
 Embedding the text chunks.
+
 Retrieving relevant information.
+
 Generating answers to your queries using a Large Language Model.
 
 # Author
